@@ -192,7 +192,7 @@
     "@serverless/cli": "^1.4.0",
     "@serverless/components": "^2.30.12",
     "@serverless/enterprise-plugin": "^3.6.13",
-    "@serverless/inquirer": "^1.1.2",
+    "inquirer": "^6.5.2",
     "archiver": "^3.1.1",
     "async": "^1.5.2",
     "aws-sdk": "^2.687.0",
